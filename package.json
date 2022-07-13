@@ -5,8 +5,7 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "express": "express",
-  "moment": "moment",
+  
 
   "scripts": {
     "prebuild": "rimraf dist",
