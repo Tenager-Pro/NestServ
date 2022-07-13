@@ -8,9 +8,9 @@ export class User{
 
     @ApiProperty()
     @Column()
-    firstname: string;
+    url: string;
 
     @ApiProperty()
     @Column()
-    lastName: string;    
+    date: string;    
 }
